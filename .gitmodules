@@ -1,0 +1,3 @@
+[submodule "HandsOnRust"]
+	path = HandsOnRust
+	url = https://github.com/thebracket/HandsOnRust
